@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @krishnavamsi333
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-krishnavamsi333/krishnavamsi333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in renewable energy, robotics, and power electronics.
+- 🌱 I’m currently learning coding and reinforcement learning.
+- 💞️ I’m looking to collaborate on projects related to solar energy systems and robotics.
+- 📫 How to reach me: [kasimallakrishnavamsi333@gmail.com](mailto:kasimallakrishnavamsi333@gmail.com)
+- 🔗 Connect with me on LinkedIn: [Krishna Vamsi Kasimalla](https://www.linkedin.com/in/krishna-vamsi-kasimalla-0a0954285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m the president of the Electric Vehicle Club!
