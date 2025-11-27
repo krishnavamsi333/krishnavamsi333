@@ -13,8 +13,7 @@ Passionate about building intelligent machines, efficient energy systems, and su
 ## 👋 About Me
 
 - 🔋 Power Electronics & Robotics Engineer  
-- ⚡ Passionate about **renewable energy**, **autonomous systems**, and **embedded development**  
-- 🤖 Exploring **reinforcement learning** for power systems & robotic decision-making  
+- ⚡ Passionate about **renewable energy**, **autonomous systems**, and **embedded development**   
 - 🤝 Open to collaborating on **solar MPPT**, **EV powertrains**, **ROS 2 robots**, and **real-time control systems**  
 - 💼 President of the **Electric Vehicle Club**, leading innovation in sustainable mobility  
 - 📫 Reach me: **[kasimallakrishnavamsi333@gmail.com](mailto:kasimallakrishnavamsi333@gmail.com)**  
