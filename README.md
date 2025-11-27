@@ -18,7 +18,7 @@ Passionate about building intelligent machines, efficient energy systems, and su
 - 🤝 Open to collaborating on **solar MPPT**, **EV powertrains**, **ROS 2 robots**, and **real-time control systems**  
 - 💼 President of the **Electric Vehicle Club**, leading innovation in sustainable mobility  
 - 📫 Reach me: **[kasimallakrishnavamsi333@gmail.com](mailto:kasimallakrishnavamsi333@gmail.com)**  
-- 🌐 Portfolio: **https://krishnavamsi333.github.io**
+- 🌐 Portfolio: **https://krishnavamsi333.github.io/Portfolio/**
 
 ---
 
@@ -96,7 +96,7 @@ Passionate about building intelligent machines, efficient energy systems, and su
 
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasimallakrishnavamsi333@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-vamsi-kasimalla-0a0954285)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krishnavamsi333.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krishnavamsi333.github.io/Portfolio/)
 
 </div>
 
