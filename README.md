@@ -20,7 +20,7 @@ Passionate about building intelligent machines, efficient energy systems, and su
 - 🔋 Power Electronics & Robotics Engineer  
 - ⚡ Passionate about **renewable energy**, **autonomous systems**, and **embedded development**   
 - 🤝 Open to collaborating on **solar MPPT**, **EV powertrains**, **ROS 2 robots**, and **real-time control systems**  
-- 💼 President of the **Electric Vehicle Club**, leading innovation in sustainable mobility  
+- 💼 President of the **Electric Vehicle Club**, at **[Velagapudi Ramakrishna Siddhartha Engineering College (VRSEC)](https://siddhartha.edu.in/)**
 - 📫 Reach me: **[kasimallakrishnavamsi333@gmail.com](mailto:kasimallakrishnavamsi333@gmail.com)**  
 - 🌐 Portfolio: **https://krishnavamsi333.github.io/Portfolio/**
 
