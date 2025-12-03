@@ -2,14 +2,13 @@
 <div align="center">
   
 #  Krishna Vamsi Kasimalla
-![KRISHNA](https://img.shields.io/badge/KRISHNA-VAMSI__KASIMALLA-blueviolet)
 
 ### *Power Electronics | Robotics | Renewable Energy | Embedded Systems*
 
 Passionate about building intelligent machines, efficient energy systems, and sustainable technologies.
 
 ![Focus](https://img.shields.io/badge/Focus-Robotics_+_Power_Electronics-blueviolet)
-![Experience](https://img.shields.io/badge/Experience-3+_Years-green)
+![Experience](https://img.shields.io/badge/Experience-1+_Years-green)
 
 
 </div>
