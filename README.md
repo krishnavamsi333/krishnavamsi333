@@ -38,7 +38,11 @@ Passionate about building intelligent machines, efficient energy systems, and su
 ![Linux](https://img.shields.io/badge/Ubuntu-Linux-E95420?logo=ubuntu&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium_Designer-ECAD-A5915F?logo=altiumdesigner&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-Simulation-0047AB?logo=analogdevices&logoColor=white)
-
+### **Hardware & Platforms**
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
 ### **Domains**
 ![Power Electronics](https://img.shields.io/badge/🔌_Power_Electronics-FF6B35)
 ![Renewable Energy](https://img.shields.io/badge/☀️_Renewable_Energy-FFD700)
@@ -57,27 +61,14 @@ Passionate about building intelligent machines, efficient energy systems, and su
 
 </div>
 
----
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🚗 **Electric Vehicle Systems**
-- 🔋 **Battery Management Systems (BMS)** – safety + SoC/SoH algorithms  
-- ⚙️ **BLDC Motor Controllers** – high-efficiency gate driver & FOC  
-- 🔌 **Smart Charging Infrastructure** – load management + AC/DC charging  
-
-### ☀️ **Solar & Renewable Energy**
-- ☀️ **MPPT Algorithms** – P&O, INC, CCM, hybrid ML-based approaches  
-- 🔄 **Grid-Tie & Hybrid Inverters** – control + signal conditioning  
-- ⚡ **Energy Storage** – Li-ion & supercapacitor hybrid systems  
-
-### 🤖 **Robotics & Automation**
-- 🚀 **Autonomous Navigation** – RL-based and multi-sensor navigation  
-- 🦾 **Manipulator Control** – trajectory optimization & inverse kinematics  
-- 🔍 **Sensor Fusion** – IMU + LiDAR + camera integration in ROS 2  
-
----
-
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Custom BMS Firmware](LINK_TO_REPO)** | C++, STM32, CAN | Safety algorithms and SoC estimation for a 48V Li-ion pack. |
+| **[Solar MPPT Controller](LINK_TO_REPO)** | MATLAB, Simulink | P&O algorithm simulation with 95% efficiency tracking. |
+| **[Agri-Bot Navigation](LINK_TO_REPO)** | ROS 2, Python, LiDAR | Autonomous path planning for agricultural environments. |
 
 
 ## 📈 Contribution Graph
