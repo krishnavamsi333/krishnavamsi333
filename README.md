@@ -22,7 +22,7 @@ Passionate about building intelligent machines, efficient energy systems, and su
 - 🤝 Open to collaborating on **solar MPPT**, **EV powertrains**, **ROS 2 robots**, and **real-time control systems**  
 - 💼 President of the **Electric Vehicle Club**, at **[Velagapudi Ramakrishna Siddhartha Engineering College (VRSEC)](https://siddhartha.edu.in/)**
 - 📫 Reach me: **[kasimallakrishnavamsi333@gmail.com](mailto:kasimallakrishnavamsi333@gmail.com)**  
-- 🌐 Portfolio: **https://krishnavamsi333.github.io/Portfolio/**
+- 🌐 Portfolio: **[krishnavamsi333.github.io/Portfolio](https://krishnavamsi333.github.io/Portfolio/)**
 
 ---
 
@@ -49,8 +49,8 @@ Passionate about building intelligent machines, efficient energy systems, and su
 ![Robotics](https://img.shields.io/badge/🤖_Robotics_Systems-4ECDC4)
 ![Embedded Systems](https://img.shields.io/badge/🎛️_Embedded_Systems-5C7AEA)
 
-### **Learning**
-<a href="https://krishnavamsi333.github.io/kicad-guide/"><img src="https://img.shields.io/badge/📐_KiCad_Guide-1B4FBB?style=for-the-badge&logo=kicad&logoColor=white" /></a>
+### **📚 My Guides & Resources**
+[![KiCad Guide](https://img.shields.io/badge/📐_KiCad_Guide-1B4FBB?style=for-the-badge&logo=kicad&logoColor=white)](https://krishnavamsi333.github.io/kicad-guide/)
 
 ---
 
