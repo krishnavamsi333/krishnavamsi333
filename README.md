@@ -105,8 +105,6 @@ Passionate about building intelligent machines, efficient energy systems, and su
 
 <div align="center">
 
-### ⚡ *Turning electrons into innovation — one project at a time.* ⚡
 
 </div>
 
-all these added in readme only any improvements 
