@@ -49,6 +49,9 @@ Passionate about building intelligent machines, efficient energy systems, and su
 ![Robotics](https://img.shields.io/badge/🤖_Robotics_Systems-4ECDC4)
 ![Embedded Systems](https://img.shields.io/badge/🎛️_Embedded_Systems-5C7AEA)
 
+### **Learning**
+<a href="https://krishnavamsi333.github.io/kicad-guide/"><img src="https://img.shields.io/badge/📐_KiCad_Guide-1B4FBB?style=for-the-badge&logo=kicad&logoColor=white" /></a>
+
 ---
 
 ## 📊 GitHub Analytics
@@ -94,6 +97,7 @@ Passionate about building intelligent machines, efficient energy systems, and su
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasimallakrishnavamsi333@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnavamsikasimalla)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krishnavamsi333.github.io/Portfolio/)
+
 
 </div>
 
