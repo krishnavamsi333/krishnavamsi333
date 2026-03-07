@@ -1,0 +1,132 @@
+### Create the workspace and source directory:
+
+```
+mkdir -p ~/ros2_ws/src
+cd ~/ros2_ws
+```
+### Build the workspace: Initialize the workspace by running:
+```
+colcon build
+source install/setup.bash
+```
+### Create a package called motor_control: Inside your workspace, create the package:
+```
+cd ~/ros2_ws/src
+ros2 pkg create --build-type ament_python motor_control
+```
+### Create the publisher script: Inside the motor_control directory, create a new file motor_publisher.py:
+```
+cd ~/ros2_ws/src/motor_control/motor_control
+touch motor_publisher.py
+chmod +x motor_publisher.py
+```
+### Publisher Code (motor_publisher.py
+```
+import rclpy
+from rclpy.node import Node
+from std_msgs.msg import String
+import sys
+import tty
+import termios
+
+class MotorPublisher(Node):
+    def __init__(self):
+        super().__init__('motor_publisher')
+        self.publisher_ = self.create_publisher(String, 'motor_commands', 10)
+        self.get_logger().info('Press "a", "s", "d", "f" to control motors. Press "q" to quit.')
+        
+        # Run the input listener
+        self.listen_input()
+
+    def listen_input(self):
+        """ Listen for keyboard input and publish corresponding messages. """
+        old_settings = termios.tcgetattr(sys.stdin)
+        tty.setraw(sys.stdin.fileno())
+        try:
+            while True:
+                ch = sys.stdin.read(1)  # Read a single character
+                if ch == 'a':
+                    self.publish_message('Motor A ON')
+                elif ch == 's':
+                    self.publish_message('Motor S ON')
+                elif ch == 'd':
+                    self.publish_message('Motor D ON')
+                elif ch == 'f':
+                    self.publish_message('Motor F ON')
+                elif ch == 'q':
+                    self.get_logger().info('Quitting...')
+                    break
+        finally:
+            termios.tcsetattr(sys.stdin, termios.TCSADRAIN, old_settings)
+
+    def publish_message(self, message):
+        msg = String()
+        msg.data = message
+        self.publisher_.publish(msg)
+        self.get_logger().info(f'Published: "{msg.data}"')
+
+def main(args=None):
+    rclpy.init(args=args)
+    motor_publisher = MotorPublisher()
+    rclpy.spin(motor_publisher)
+    motor_publisher.destroy_node()
+    rclpy.shutdown()
+
+if __name__ == '__main__':
+    main()
+```
+### Create the subscriber script: Inside the same directory, create a new file motor_subscriber.py:
+```
+touch motor_subscriber.py
+chmod +x motor_subscriber.py
+```
+### Add this code to motor_subscriber.py:
+```import rclpy
+from rclpy.node import Node
+from std_msgs.msg import String
+
+class MotorSubscriber(Node):
+    def __init__(self):
+        super().__init__('motor_subscriber')
+        self.subscription = self.create_subscription(
+            String,
+            'motor_commands',  # This should match the publisher's topic
+            self.listener_callback,
+            10)
+        self.subscription  # prevent unused variable warning
+        self.get_logger().info('Motor Subscriber Node Initialized')
+
+    def listener_callback(self, msg):
+        self.get_logger().info(f'Received: "{msg.data}"')
+
+def main(args=None):
+    rclpy.init(args=args)
+    motor_subscriber = MotorSubscriber()
+    rclpy.spin(motor_subscriber)
+    motor_subscriber.destroy_node()
+    rclpy.shutdown()
+
+if __name__ == '__main__':
+    main()
+```
+### Build the Workspace: Navigate to the workspace root:
+```cd ~/ros2_ws
+```
+### Build the workspace:
+```colcon build
+```
+### Source the workspace:
+```
+source install/setup.bash
+```
+### Run the Nodes:In one terminal, run the publisher node (to publish motor commands):
+```
+ros2 run motor_control motor_publisher
+```
+### In another terminal, run the subscriber node (to listen and control the motors):
+```
+source /opt/ros/humble/setup.bash
+source ~/ros2_ws/install/setup.bash
+ros2 run motor_control motor_subscriber
+```
+### note  Build the Workspace: Navigate to the workspace root: **first and last step **
