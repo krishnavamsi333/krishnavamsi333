@@ -18,7 +18,7 @@ Passionate about building intelligent machines, efficient energy systems, and su
 ## 👋 About Me
 
 - 🔋 Power Electronics & Robotics Engineer  
-- ⚡ Passionate about **renewable energy**, **autonomous systems**, and **embedded development**   
+- ⚡ **renewable energy**, **autonomous systems**, and **embedded development**   
 - 🤝 Open to collaborating on **solar MPPT**, **EV powertrains**, **ROS 2 robots**, and **real-time control systems**  
 - 💼 President of the **Electric Vehicle Club**, at **[Velagapudi Ramakrishna Siddhartha Engineering College (VRSEC)](https://siddhartha.edu.in/)**
 - 📫 Reach me: **[kasimallakrishnavamsi333@gmail.com](mailto:kasimallakrishnavamsi333@gmail.com)**  
@@ -34,23 +34,34 @@ Passionate about building intelligent machines, efficient energy systems, and su
 ![MATLAB/Simulink](https://img.shields.io/badge/MATLAB-Simulink-0076A8?logo=mathworks&logoColor=white)
 ![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-22314E?logo=ros&logoColor=white)
 
+
+
 ### **Tools & Platforms**
 ![Linux](https://img.shields.io/badge/Ubuntu-Linux-E95420?logo=ubuntu&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium_Designer-ECAD-A5915F?logo=altiumdesigner&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-Simulation-0047AB?logo=analogdevices&logoColor=white)
+
+
 ### **Hardware & Platforms**
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![Espressif](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
-### **Domains**
-![Power Electronics](https://img.shields.io/badge/🔌_Power_Electronics-FF6B35)
-![Renewable Energy](https://img.shields.io/badge/☀️_Renewable_Energy-FFD700)
-![Robotics](https://img.shields.io/badge/🤖_Robotics_Systems-4ECDC4)
-![Embedded Systems](https://img.shields.io/badge/🎛️_Embedded_Systems-5C7AEA)
 
-### **📚 My Guides & Resources**
-[![KiCad Guide](https://img.shields.io/badge/📐_KiCad_Guide-1B4FBB?style=for-the-badge&logo=kicad&logoColor=white)](https://krishnavamsi333.github.io/kicad-guide/)
+
+### **Domains**
+![Power Electronics](https://img.shields.io/badge/Power_Electronics-FF6B35)
+![Renewable Energy](https://img.shields.io/badge/Renewable_Energy-FFD700)
+![Robotics](https://img.shields.io/badge/Robotics_Systems-4ECDC4)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-5C7AEA)
+
+
+### 📚 My Guides & Resources
+
+[![KiCad Guide](https://img.shields.io/badge/KiCad_Guide-1B4FBB?style=flat&logo=kicad&logoColor=white)](https://krishnavamsi333.github.io/kicad-guide/)
+[![Raspberry Pi Guide](https://img.shields.io/badge/Raspberry_Pi_Guide-C51A4A?style=flat&logo=raspberrypi&logoColor=white)](https://krishnavamsi333.github.io/RPI/)
+
+
 
 ---
 
