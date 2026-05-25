@@ -74,8 +74,28 @@ I'm a **Power Electronics & Robotics Engineer** passionate about intelligent mac
 | ☀️ **[Solar MPPT Controller](LINK_TO_REPO)** | MATLAB, Simulink | P&O algorithm with **95%+ tracking efficiency**; tested across dynamic irradiance profiles |
 | 🤖 **[Agri-Bot Navigation](LINK_TO_REPO)** | ROS 2, Python, LiDAR | Autonomous path planning for agricultural terrain; obstacle avoidance via Nav2 stack |
 | ⚡ **[DC-DC Converter Design](LINK_TO_REPO)** | LTspice, Altium | Boost/Buck-Boost topology with custom PCB layout and efficiency benchmarking |
+| 🔄 **[DBC2DBF Converter](https://dbc2dbf-tool.onrender.com/)** | Web Tool | Convert CAN `.dbc` files to DBF format — built for EV/automotive CAN bus workflows |
+| 🧾 **[KiBOM Procurement Tool](https://kibom.onrender.com/)** | Web Tool, KiCad | Transform KiCad BOMs into procurement-ready CSVs with MPNs, pricing & lead times |
 
 > 💡 *Replace `LINK_TO_REPO` placeholders with actual repository URLs.*
+
+---
+
+## 🌐 Tools I've Built & Deployed
+
+> Open-source web tools for the electronics & automotive engineering community:
+
+<div align="center">
+
+[![DBC2DBF Converter](https://img.shields.io/badge/🔄_DBC2DBF_Converter-Launch_Tool-A855F7?style=for-the-badge)](https://dbc2dbf-tool.onrender.com/)
+[![KiBOM Procurement](https://img.shields.io/badge/🧾_KiBOM_Procurement_Tool-Launch_Tool-1B4FBB?style=for-the-badge&logo=kicad&logoColor=white)](https://kibom.onrender.com/)
+
+</div>
+
+| Tool | Description | Useful For |
+|:-----|:------------|:-----------|
+| 🔄 **[DBC2DBF Converter](https://dbc2dbf-tool.onrender.com/)** | Convert CAN database `.dbc` files to DBF format directly in your browser | EV/automotive CAN bus tool compatibility |
+| 🧾 **[KiBOM Procurement Tool](https://kibom.onrender.com/)** | Upload a KiCad BOM and get a procurement-ready CSV with MPNs, prices & lead times | PCB design → sourcing pipeline |
 
 ---
 
